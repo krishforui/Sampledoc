@@ -1,0 +1,2 @@
+# Sampledoc
+For sample purpose
